@@ -1,2 +1,4 @@
 # git_test
-odin project template
+My first GitHub repo!
+Hello Odin!
+More text !
